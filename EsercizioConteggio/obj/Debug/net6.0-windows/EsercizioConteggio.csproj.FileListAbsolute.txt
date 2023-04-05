@@ -1,0 +1,17 @@
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\bin\Debug\net6.0-windows\EsercizioConteggio.exe
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\bin\Debug\net6.0-windows\EsercizioConteggio.deps.json
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\bin\Debug\net6.0-windows\EsercizioConteggio.runtimeconfig.json
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\bin\Debug\net6.0-windows\EsercizioConteggio.dll
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\bin\Debug\net6.0-windows\EsercizioConteggio.pdb
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.csproj.AssemblyReference.cache
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.Form1.resources
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.csproj.GenerateResource.cache
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.AssemblyInfoInputs.cache
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.AssemblyInfo.cs
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.csproj.CoreCompileInputs.cache
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.dll
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\refint\EsercizioConteggio.dll
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.pdb
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\EsercizioConteggio.genruntimeconfig.cache
+C:\Users\michele.f.meloni\source\repos\EsercizioConteggio\obj\Debug\net6.0-windows\ref\EsercizioConteggio.dll
